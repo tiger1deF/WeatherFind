@@ -8,4 +8,4 @@ Clone the github repo into any destination folder of your choice. In order to ru
 
 The following app menu will open in your default browser.
 
-![alt text](https://imgur.com/bB3i5ll)
+![Imgur Image](https://imgur.com/bB3i5ll.jpg)
