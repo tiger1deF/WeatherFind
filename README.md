@@ -10,4 +10,4 @@ The following app menu will open in your default browser. The WeatherModel app p
 
 ![Imgur Image](https://imgur.com/bB3i5ll.jpg)
 
-![Imgur Image](https://imgur.com/a/fvN3eut.jpg)
+![Imgur Image](https://imgur.com/gallery/fvN3eut)
